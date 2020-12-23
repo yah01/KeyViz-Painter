@@ -12,5 +12,5 @@ CREATE DATABASE KeyViz
 ![src](s.jpg)
 
 生成图像：
-![result](result.png)
+![result](res.png)
 
