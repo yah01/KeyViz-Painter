@@ -77,7 +77,7 @@ func drawColumnAt(col int) {
 }
 
 func main() {
-	// createPixels()
+	createPixels()
 	for c := 0; c < imageWidth; c++ {
 		timer := time.NewTimer(time.Minute)
 		drawColumnAt(c)
