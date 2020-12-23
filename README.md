@@ -9,8 +9,9 @@ CREATE DATABASE KeyViz
 接下来运行这个程序，等待6小时后，就可以在 dashboard 中的 KeyViz 看到图像了
 
 原图像：
+
 ![src](s.jpg)
 
 生成图像：
-![result](res.png)
+![result](result.png)
 
